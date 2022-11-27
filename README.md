@@ -20,4 +20,7 @@ this is a test repository for auto tests
 
 ### 問題点　
 - selenium で実行すると待ち時間が発生してしまう
-- 
+- spinnakerから実行した際の画像は必要なのか。
+- TS-001/Spinnaker実行画像
+- TS-001/gcs bucket情報
+- TS-001/gcp logging情報
